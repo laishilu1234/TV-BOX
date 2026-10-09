@@ -10,7 +10,7 @@
   "首页": "200",
   "起始页": "1",
   "分类url": "/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;rcA",
-  "分类": "动漫$1#电影$2",
+  "分类": "日韩",
   "数组": "cover-md\">&&</h",
   "图片": "data-src=\"&&\"",
   "标题": "title\"><a*>&&<",
