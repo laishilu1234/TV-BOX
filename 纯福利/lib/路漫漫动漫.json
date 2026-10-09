@@ -6,7 +6,7 @@
   "请求头": "User-Agent$MOBILE_UA",
   "播放请求头": "User-Agent$MOBILE_UA#Referer$https://www.lmm97.com",
   "嗅探词": "https://v6-web.toutiaovod.com#/video/#index.m3u8#.m3u8#.mp4",
-  "主页url": "https://www.lmm97.com",
+  "主页url": "https://333.aheck.cc/vodtype/1.html",
   "首页": "200",
   "起始页": "1",
   "分类url": "/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;rcA",
